@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Kessler.API/Kessler.API.csproj" />
+  <Project Path="Kessler.Application/Kessler.Application.csproj" />
+  <Project Path="Kessler.Domain/Kessler.Domain.csproj" />
+  <Project Path="Kessler.Infrastructure/Kessler.Infrastructure.csproj" />
+  <Project Path="Kessler.Services/Kessler.Services.csproj" />
+</Solution>

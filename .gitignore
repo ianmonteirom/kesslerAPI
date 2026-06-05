@@ -1,0 +1,49 @@
+# Claude Code — nunca subir
+.claude/
+memoria.md
+
+# Build outputs
+bin/
+obj/
+out/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# Pacotes NuGet restaurados localmente
+.nuget/
+packages/
+*.nupkg
+
+# Certificados de desenvolvimento
+*.pfx
+*.p12
+
+# Secrets / configurações locais sensíveis
+appsettings.Development.json
+appsettings.Local.json
+**/secrets.json
+
+# Logs
+*.log
+logs/
+
+# Cobertura de testes
+coverage/
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,6 @@
+@Kessler.API_HostAddress = http://localhost:5160
+
+GET {{Kessler.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
